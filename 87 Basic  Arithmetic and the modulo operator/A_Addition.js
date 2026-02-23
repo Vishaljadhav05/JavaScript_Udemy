@@ -1,0 +1,12 @@
+// Number + Number => Addition 
+let x = 1 + 2;
+console.log( x );
+
+// Number + String => Concatenation
+let y =  5 + " hello"; 
+console.log( y );
+
+//Output:-
+
+//3
+//5 hello
