@@ -1,0 +1,21 @@
+1: If Statement :-  we are using an if statement to check a specific condition, the code block gets 
+    executed when the given condition is satisfied.
+
+Syntax:-
+
+if ( condition_is_given_here ) {
+    // If the condition is met, 
+    //the code  will get executed.
+}
+
+2: If-Else Statement :- The if-else statement will perform some action for a specific condition. If the condition meets then a 
+    particular code of action will be executed otherwise it will execute another code of action that satisfies that particular condition.
+
+Syntax
+
+if (condition1) {
+    // Executes when condition1 is true
+    if (condition2) {
+        // Executes when condition2 is true
+    }
+}
